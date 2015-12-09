@@ -1,5 +1,5 @@
-![My Wireframe Index](/imgs/wireframe-index.png)
-![Blog Index](/imgs/wireframe-blog-index.png)
+![My Wireframe Index](week-2/imgs/wireframe-index.png)
+![Blog Index](week-2/imgs/wireframe-blog-index.png)
 
 What is a wireframe?
 A wireframe is a template for a webpage that uses minimalistic design to form a layout.
