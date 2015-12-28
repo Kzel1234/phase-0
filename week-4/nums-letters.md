@@ -1,3 +1,13 @@
+[Link to 4.2.1](https://github.com/Kzel1234/phase-0/blob/master/week-4/defining-variables.rb)
+
+[Link to 4.2.2](https://github.com/Kzel1234/phase-0/blob/master/week-4/simple-string.rb)
+
+[Link to 4.2.3](https://github.com/Kzel1234/phase-0/blob/master/week-4/basic-math.rb)
+
+
+
+
+
 What does puts do?
 puts prints output to the console on a new line.
 
