@@ -32,3 +32,7 @@ How do you run an RSpec file from the command line?
 What was confusing about this material? What made sense?
   This material was pretty straight forward. I understood most of it with ease.
 =end
+
+#Links to solutions:
+[Link to 4.3.1](https://github.com/Kzel1234/phase-0/blob/master/week-4/address/my_solution.rb)
+[Link to 4.3.2](https://github.com/Kzel1234/phase-0/blob/master/week-4/math/my_solution.rb)
