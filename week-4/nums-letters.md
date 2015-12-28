@@ -17,3 +17,14 @@ Minutes in a decade:
 ```ruby
 puts 365 * 10 * 24 * 60
 ```
+How does Ruby handle addition, subtraction, multiplication, and division of numbers?
+Ruby takes an expression and returns an answer just like a calculator
+
+What are strings? Why and when would you use them?
+Strings are either a singular, or a group of characters that are usually used in applications to communicate with a user.
+
+What are local variables? Why and when would you use them?
+Local varibales are variables that are given values by a programmer. You would use local variables to give a variable of your choice, a value of your choice.
+
+How was this challenge? Did you get a good review of some of the basics?
+I actually learned more than I reviewed. I had some trouble at first, but once I got it, everything sort of just clicked.
